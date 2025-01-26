@@ -9,11 +9,11 @@ Soy estudiante de Desarrollo de Aplicaciones Web (DAW) apasionado por la creaci�
 - Control de versiones: Git
 
 ## Educación
--Actualmente cursando el Grado Superior de Desarrollo de Aplicaciones Web (DAW), IES Francisco Javier de Burgos, 22/23
+-Actualmente cursando el Grado Superior de Desarrollo de Aplicaciones Web (DAW), IES Francisco Javier de Burgos, 24/25
 
 
 ## Contacto
-- 📧 Correo electrónico: 
+- 📧 Correo electrónico: franalabarce@gmail.com
 - LinkedIn: 
 - Sitio web personal: 
 
